@@ -45,4 +45,7 @@ O Prolog vai executar linha por linha, tentando satisfazer a condição escrita,
 
 ---
 
-### 🎣 
+### Bibliografia:
+
+- [PDF de introdução à prolog](https://dcm.ffclrp.usp.br/~augusto/teaching/ia/IA-Prolog-Introducao-Tutorial.pdf)
+- Ferramentas de IA
